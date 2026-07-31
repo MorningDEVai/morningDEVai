@@ -1,21 +1,26 @@
 <p align="center">
-  <img src="./baner.webp" alt="MorningDEV Banner" width="100%">
+  <img src="banner.webp" alt="MorningDEV Banner">
 </p>
-<div align="center">
 
-# 🌅 MorningDEV
+<h1 align="center">🌅 MorningDEV</h1>
 
-### Your AI Engineering Teammate. Build production-ready software with AI.
+<h3 align="center">
+Your AI Engineering Teammate
+</h3>
 
+<p align="center">
 Turn ideas into production-ready software with AI.
+</p>
 
-🌐 https://morningdev.ai
-
-</div>
+<p align="center">
+🌐 <a href="https://morningdev.ai">Website</a> •
+💼 <a href="https://www.linkedin.com/company/morningdev">LinkedIn</a> •
+🐦 <a href="https://x.com/MorningDEVai">X (Twitter)</a>
+</p>
 
 ---
 
-## 🚀 What is MorningDEV?
+# 🚀 What is MorningDEV?
 
 MorningDEV is an AI Engineering Teammate that helps founders and engineering teams build software faster.
 
@@ -23,51 +28,58 @@ From product idea to production deployment — all in one workflow.
 
 ---
 
-## ✨ What we're building
+# ✨ What we're building
 
 - 🤖 AI Software Engineer
-- 🏗️ System Architecture
+- 🏗️ AI System Architecture
 - 💻 Production-ready Code
-- 🔄 AI Collaboration
+- 🤝 AI Collaboration
 - 🚀 Deployment Workflows
 
 ---
 
-## 🎯 Our Mission
+# 🎯 Mission
 
-We believe software development should feel like collaborating with an experienced engineering team—not wrestling with tools.
+Our mission is to become the world's most trusted AI Engineering Teammate.
 
-MorningDEV is building the future of AI-native software engineering.
-
----
-
-## 🌍 Current Status
-
-🚧 Private Beta
-
-We're working closely with early adopters to build the next generation of AI engineering tools.
+We believe software should be built by people working together with AI—not by replacing developers, but by making every engineer dramatically more productive.
 
 ---
 
-## 📬 Early Access
+# 🛣️ Roadmap
+
+- ✅ AI Engineering Workspace
+- 🔄 Multi-Agent Collaboration
+- 🔄 Code Generation
+- 🔄 Architecture Generation
+- 🔄 AI Code Reviews
+- 🔄 Automated Deployment
+- 🔄 Enterprise Integrations
+
+---
+
+# 📬 Early Access
+
+We're currently inviting early adopters.
 
 👉 https://morningdev.ai
 
-Join the waitlist and help shape the future of AI engineering.
+---
+
+# 🤝 Let's Connect
+
+We're always happy to connect with:
+
+- Founders
+- Engineering Teams
+- AI Enthusiasts
+- Investors
+- Open Source Contributors
 
 ---
 
-## 🤝 Connect with us
+<p align="center">
 
-- 🌐 https://morningdev.ai
-- 💼 LinkedIn
-- 🐦 X (Twitter)
-- 📺 YouTube
+⭐ If you like what we're building, give this repository a star!
 
----
-
-<div align="center">
-
-**Built with ❤️ by the MorningDEV team**
-
-</div>
+</p>
