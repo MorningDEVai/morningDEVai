@@ -1,48 +1,60 @@
-<div align="center">
+<p align="center">
+  <img src="https://YOUR_IMAGE_LINK_HERE" alt="MorningDEV Banner" width="100%">
+</p>
 
-# 🌅 MorningDEV
+<h1 align="center">MorningDEV</h1>
 
-### Your AI Engineering Teammate
+<p align="center">
+<strong>Your AI Engineering Teammate</strong>
+</p>
 
-Turn ideas into production-ready software with AI.
+<p align="center">
+Build production-ready software with AI.
+</p>
 
-🌐 https://morningdev.ai
-
-</div>
+<p align="center">
+<a href="https://morningdev.ai">🌐 Website</a> •
+<a href="https://www.linkedin.com/company/morningdev">LinkedIn</a> •
+<a href="https://x.com/MorningDEVai">X</a> •
+<a href="https://www.youtube.com/@MorningDEV">YouTube</a>
+</p>
 
 ---
 
 ## 🚀 What is MorningDEV?
 
-MorningDEV is an AI Engineering Teammate that helps founders and engineering teams build software faster.
+MorningDEV is an AI Engineering Teammate that helps founders and engineering teams build production-ready software—from idea to deployment.
 
-From product idea to production deployment — all in one workflow.
-
----
-
-## ✨ What we're building
-
-- 🤖 AI Software Engineer
-- 🏗️ System Architecture
-- 💻 Production-ready Code
-- 🔄 AI Collaboration
-- 🚀 Deployment Workflows
+Instead of switching between multiple AI tools, MorningDEV provides one intelligent workspace for planning, coding, reviewing, debugging and shipping software.
 
 ---
 
-## 🎯 Our Mission
+## ✨ Why MorningDEV?
 
-We believe software development should feel like collaborating with an experienced engineering team—not wrestling with tools.
-
-MorningDEV is building the future of AI-native software engineering.
+- 🤖 AI software engineer
+- 🏗️ System architecture & planning
+- 💻 Production-ready code
+- 🔍 Code review & debugging
+- 🚀 Deployment assistance
+- 🤝 AI collaboration
 
 ---
 
-## 🌍 Current Status
+## 🌍 Built for
 
-🚧 Private Beta
+- Founders
+- Startups
+- Software engineers
+- Product teams
+- Growing companies
 
-We're working closely with early adopters to build the next generation of AI engineering tools.
+---
+
+## 🚧 Current Status
+
+Private Beta
+
+We're building the next generation of AI-native software engineering.
 
 ---
 
@@ -50,21 +62,10 @@ We're working closely with early adopters to build the next generation of AI eng
 
 👉 https://morningdev.ai
 
-Join the waitlist and help shape the future of AI engineering.
+Join the waitlist and help shape the future of software development.
 
 ---
 
-## 🤝 Connect with us
-
-- 🌐 https://morningdev.ai
-- 💼 LinkedIn
-- 🐦 X (Twitter)
-- 📺 YouTube
-
----
-
-<div align="center">
-
-**Built with ❤️ by the MorningDEV team**
-
-</div>4
+<p align="center">
+Built with ❤️ by the MorningDEV team
+</p>
