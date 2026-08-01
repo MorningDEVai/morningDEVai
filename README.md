@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.webp" alt="MorningDEV Banner">
+  <img src="banner.png" alt="MorningDEV Banner">
 </p>
 
 <h1 align="center">🌅 MorningDEV</h1>
